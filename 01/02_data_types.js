@@ -7,4 +7,4 @@ console.log('hello')
 let a= 45
 let b = "hello"
 console.table([typeof(a),typeof(b)])
-console.table([typeof(null),typeof(undefined)])
+console.table([typeof(null),typeof(undefined)]) 
